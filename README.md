@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/owen-wenchung-kao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="wenchung.wixsite.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/KaoWenChung/KaoWenChung/feb5c6c178818ea8424dafbc47d38d6789babbeb/Resources/wix.svg" height="50" width="50" /></a>
+<a href="https://wenchung.wixsite.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/KaoWenChung/KaoWenChung/feb5c6c178818ea8424dafbc47d38d6789babbeb/Resources/wix.svg" height="50" width="50" /></a>
 
 👨‍💻 I have 2+ years in iOS native application development (Swift, SwiftUI)
 
