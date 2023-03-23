@@ -1,22 +1,21 @@
-
-<h1 align="center">Hi there👋, I'm Alexander!</h1>
+<h1 align="center">Hi, I'm Owen 👋</h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/owen-wenchung-kao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 wenchung.wixsite.com/home
 
-👨‍💻 I have 5+ years in mobile-apps development (building native iOS apps, Unity, and Spark AR studio)
+👨‍💻 I have 2+ years in iOS native application development (Swift, SwiftUI)
 
-⭐ I'm very passionate  about user-experience since I have media design background
+🚀 3+ years in cross-platform mobile appliactions development (Unity, Spark AR Studio)
 
-🔭 I’m currently working on two social app projects
+⭐ I'm familiar with media design (User-experience, 2D, 3D animations)
 
 
 <h2 align="left">Portfolio:</h3>
 
-Movie List | Coffee Map | SpaceX | News reader
+Movie List | Coffee Map | SpaceX | Post reader
 -------------- | -------------- | ----------------- | ---------------------
-MVVM, Coordinator, Clean Architecture, Unit testing, Firebase | - | -, -, - | -, -, -
-0 | 0 | 0 | 0
-0 | 0 | 0 | 0
+Swift, Firebase(auth), XCTest | Swift, MVVMC, XCTest | Swift, VIPER, XCTest | SwiftUI, Combine, Core Data, XCTest
+[Github](https://github.com/KaoWenChung/MovieList) | [Github](https://github.com/KaoWenChung/CoffeeMap_MVVMC) | [Github](https://github.com/KaoWenChung/SpaceX_VIPER.git) | [Github](https://github.com/KaoWenChung/PostReader_SwiftUI.git)
+<img src="https://raw.githubusercontent.com/KaoWenChung/MovieList/main/Resources/ScreenShot.png" alt="postgresql" width="140" height="100"/> | <img src="https://raw.githubusercontent.com/KaoWenChung/MovieList/main/Resources/ScreenShot.png" alt="postgresql" width="140" height="100"/> | <img src="https://github.com/KaoWenChung/SpaceX_VIPER/blob/main/Resources/ScreenShot.png?raw=true" alt="postgresql" width="140" height="100"/> | <img src="https://github.com/KaoWenChung/PostReader_SwiftUI/blob/master/Resources/ScreenShot.png?raw=true" alt="postgresql" width="190" height="100"/>
 
