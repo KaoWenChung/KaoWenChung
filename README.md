@@ -4,11 +4,11 @@
 <a href="https://www.linkedin.com/in/owen-wenchung-kao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="wenchung.wixsite.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/KaoWenChung/KaoWenChung/acc4ff50f4814157c9269465d1a45354d66b9753/Resources/wix.svg" height="50" width="50" /></a>
 
-👨‍💻 I have 2+ years in iOS native application development (Swift, SwiftUI)
+👨‍💻 Open-minded, highly motivated iOS App Engineer with over 5 years of experience across IT, travel, and FinTech. 
 
-🚀 3+ years in cross-platform mobile appliactions development (Unity, Spark AR Studio)
+🚀 Enhancing a travel app with innovative attraction ticket-booking features, resulting in a 22% turnover increase. 
 
-⭐ I'm familiar with media design (User-experience, 2D, 3D animations)
+⭐ Applying TDD, SOLID principles, and Clean Code for eﬀicient, readable development.
 
 
 <h2 align="left">Portfolio:</h3>
